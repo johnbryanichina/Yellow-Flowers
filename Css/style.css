@@ -121,3 +121,7 @@ canvas {
     width: 500px;
     height: 300px;
 }
+
+.phrase{
+    font-style: italic;
+}
